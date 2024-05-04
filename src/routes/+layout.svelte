@@ -28,10 +28,6 @@
 		padding-inline: var(--size-7);
 	}
 
-	article :global(*) {
-		max-width: 100%;
-	}
-
 	@media (min-width: 1440px) {
 		.layout {
 			padding-inline: 0;
