@@ -28,10 +28,6 @@
 		padding-inline: var(--size-7);
 	}
 
-	main {
-		padding-block: var(--size-9);
-	}
-
 	article :global(*) {
 		max-width: 100%;
 	}

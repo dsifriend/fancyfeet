@@ -40,6 +40,11 @@
 	/* Selector matches Markdown post contents */
 	article :global(*) {
 		max-width: 100%;
+		width: 100%;
+	}
+
+	article :global(img) {
+		align-self: center;
 	}
 
 	h1 {
@@ -53,11 +58,14 @@
 
 	.tags {
 		display: flex;
+		flex-wrap: wrap;
 		gap: var(--size-3);
 		margin-top: var(--size-7);
 	}
 
 	.tags > * {
+		text-wrap: nowrap;
+		width: min-content;
 		padding: var(--size-2) var(--size-3);
 		border-radius: var(--radius-round);
 	}
