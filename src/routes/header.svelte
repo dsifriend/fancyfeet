@@ -4,7 +4,8 @@
 
 <nav>
 	<!-- Title -->
-	<a href="/" class="title" style="color: var(--pink-6);">
+	<a href="/" class="title">
+		<img src="/catpaw.svg" alt="a pink stylized cat paw" />
 		<b>{config.title}</b>
 	</a>
 
@@ -25,6 +26,17 @@
 <style>
 	nav {
 		padding-block: var(--size-7);
+	}
+
+	.title {
+		display: flex;
+		align-items: center;
+		color: var(--pink-6);
+	}
+
+	.title > img {
+		max-height: 1.5lh;
+		margin: 1mm;
 	}
 
 	.links {
