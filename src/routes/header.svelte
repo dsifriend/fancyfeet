@@ -5,7 +5,7 @@
 <nav>
 	<!-- Title -->
 	<a href="/" class="title">
-		<img src="/catpaw.svg" alt="a pink stylized cat paw" />
+		<img src="/images/catpaw.svg" alt="a pink stylized cat paw" />
 		<b>{config.title}</b>
 	</a>
 
