@@ -60,7 +60,7 @@ export default defineConfig({
 								.replace(/\s+/g, '-')
 								.slice(0, 36); // truncated
 
-							return `${slug}.md`;
+							return `${slug}`;
 						}
 					}
 				},
@@ -92,7 +92,7 @@ export default defineConfig({
 								.replace(/\s+/g, '-')
 								.slice(0, 36); // truncated
 
-							return `${yyyy}-${mm}-${dd}-${slug}.md`;
+							return `${yyyy}-${mm}-${dd}-${slug}`;
 						}
 					}
 				},
