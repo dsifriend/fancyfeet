@@ -27,7 +27,7 @@ export default defineConfig({
 			{
 				name: 'authors',
 				label: 'Authors',
-				path: 'static/content/authors',
+				path: 'src/content/authors',
 				format: 'md',
 				ui: {
 					// Record `createdAt` and `lastUpdated` fields
@@ -73,7 +73,7 @@ export default defineConfig({
 			{
 				name: 'posts',
 				label: 'Posts',
-				path: 'static/content/posts',
+				path: 'src/content/posts',
 				format: 'md',
 				ui: {
 					filename: {

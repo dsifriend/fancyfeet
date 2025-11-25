@@ -43,7 +43,9 @@ See, this wasn't the first stray cat I picked up and brought back home.
 The first was my Silky, who I'd be remiss if I didn't mention here.
 I found her in a storm drain by my dad's office, and she was
 my first cat ever!
-![](/content/media/HNI_0014.jpeg)I was obsessed with the Erin Hunter Warriors books at the time
+![](/content/media/HNI_0014.jpeg)
+
+I was obsessed with the Erin Hunter Warriors books at the time
 and wouldn't take no for an answer when I asked to take her home.
 Unfortunately she ran away some years later and I don't know
 how exactly her story ends.
