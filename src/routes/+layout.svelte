@@ -3,6 +3,11 @@
 	import Header from './header.svelte';
 
 	import '../app.css';
+	interface Props {
+		children?: import('svelte').Snippet;
+	}
+
+	let { children }: Props = $props();
 </script>
 
 <div class="layout">
@@ -11,7 +16,7 @@
 
 	<main>
 		<!-- Black hole for other content -->
-		<slot />
+		{@render children?.()}
 	</main>
 
 	<!-- Footer -->

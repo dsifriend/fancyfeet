@@ -5,12 +5,18 @@
 <nav>
 	<!-- Title -->
 	<a href="/" class="title">
-		<img src="/catpaw.svg" alt="a pink stylized cat paw" />
+		<img src="/images/catpaw.svg" alt="a pink stylized cat paw" />
 		<b>{config.title}</b>
 	</a>
 
 	<!-- Navigation -->
 	<ul class="links">
+		<li>
+			<a href="/blog/posts">Posts</a>
+		</li>
+		<li>
+			<a href="/blog/authors">Members</a>
+		</li>
 		<li>
 			<a href="/about">About</a>
 		</li>
@@ -25,17 +31,20 @@
 
 <style>
 	nav {
-		padding-block: var(--size-7);
+		display: flex;
+		justify-content: space-between;
 	}
 
 	.title {
 		display: flex;
 		align-items: center;
+		justify-content: flex-start;
 		color: var(--pink-6);
 	}
 
 	.title > img {
 		max-height: 1.5lh;
+		max-width: 1.5lh;
 		margin: 1mm;
 	}
 
@@ -49,15 +58,9 @@
 	}
 
 	@media (min-width: 768px) {
-		nav {
-			display: flex;
-			justify-content: space-between;
-		}
-
 		.links {
 			display: flex;
 			gap: var(--size-7);
-			margin-block: 0;
 		}
 	}
 </style>
