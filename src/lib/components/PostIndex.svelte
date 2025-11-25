@@ -6,6 +6,7 @@
 
 <div class="post-index">
   {#each posts as post (post.slug)}
+  <div class="post-entry">
   {#if post.image}
   <!-- svelte-ignore a11y_missing_attribute -->
   <img src={post.image}/>
@@ -38,19 +39,26 @@
       </div>
     {/if}
   </section>
+  </div>
   {/each}
 </div>
 
 <style>
   .post-index {
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items: first baseline;
     justify-content: flex-start;
   }
-  .post-index img {
+  .post-entry img {
     width: 8rem;
     margin-right: 1rem;
     height: min-content;
+  }
+  .post-entry {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
   }
   .post-summary {
     padding: 1rem 0;
