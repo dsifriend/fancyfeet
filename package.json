@@ -33,7 +33,6 @@
 		"@fontsource-variable/quicksand": "^5.2.10",
 		"@tinacms/cli": "^1.12.4",
 		"feed": "^5.1.0",
-		"gray-matter": "^4.0.3",
 		"lucide-svelte": "^0.554.0",
 		"open-props": "^1.7.16",
 		"tinacms": "^2.9.5"
