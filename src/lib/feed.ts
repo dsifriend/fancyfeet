@@ -52,7 +52,7 @@ export async function generateFeed() {
 			author: [
 				{
 					name: post.author.name,
-					link: `${SITE_URL}/blog/authors/${post.author.slug}` // Adjust path if needed
+					link: `${SITE_URL}/blog/authors#${post.author.slug}` // Adjust path if needed
 				}
 			],
 			date: new Date(post.date),

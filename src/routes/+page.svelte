@@ -15,7 +15,7 @@
       <p>
         Published on <span class="date">{latestPost.date.toLocaleDateString()}</span>
         by 
-        <a href="/blog/authors/{latestPost.author.slug}">
+        <a href="/blog/authors#{latestPost.author.slug}">
             {latestPost.author.name}
         </a>
       </p>

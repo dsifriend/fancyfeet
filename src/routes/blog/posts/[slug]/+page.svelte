@@ -20,7 +20,7 @@
       <p>
         Published on <span class="date">{post.date.toLocaleDateString()}</span>
         by 
-        <a href="/blog/authors/{post.author.slug}">
+        <a href="/blog/authors#{post.author.slug}">
             {post.author.name}
         </a>
       </p>
