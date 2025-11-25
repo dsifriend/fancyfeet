@@ -12,20 +12,27 @@
 	<!-- Navigation -->
 	<ul class="links">
 		<li>
+			<a href="/blog/posts">Posts</a>
+		</li>
+		<li>
+			<a href="/blog/authors">Members</a>
+		</li>
+		<li>
 			<a href="/about">About</a>
 		</li>
 		<li>
 			<a href="/contact">Contact</a>
 		</li>
-		<!-- <li>
+		<li>
 			<a href="/rss.xml" target="_blank">RSS</a>
-		</li> -->
+		</li>
 	</ul>
 </nav>
 
 <style>
 	nav {
-		padding-block: var(--size-7);
+		display: flex;
+		justify-content: space-between;
 	}
 
 	.title {
@@ -49,15 +56,9 @@
 	}
 
 	@media (min-width: 768px) {
-		nav {
-			display: flex;
-			justify-content: space-between;
-		}
-
 		.links {
 			display: flex;
 			gap: var(--size-7);
-			margin-block: 0;
 		}
 	}
 </style>
