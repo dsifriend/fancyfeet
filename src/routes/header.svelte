@@ -38,11 +38,13 @@
 	.title {
 		display: flex;
 		align-items: center;
+		justify-content: flex-start;
 		color: var(--pink-6);
 	}
 
 	.title > img {
 		max-height: 1.5lh;
+		max-width: 1.5lh;
 		margin: 1mm;
 	}
 
