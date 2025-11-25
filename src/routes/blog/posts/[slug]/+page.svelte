@@ -58,4 +58,13 @@
     margin-right:auto;
     margin-top: 1em;
   }
+
+  :global(.post-content ul) {
+    list-style: disc;
+    padding: 2rem;
+  }
+  :global(.post-content ol) {
+    list-style: decimal-leading-zero;
+    padding: 2rem;
+  }
 </style>
