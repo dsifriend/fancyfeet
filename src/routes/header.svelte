@@ -44,7 +44,7 @@
 
 	.title > img {
 		max-height: 1.5lh;
-		max-width: 1.5l;
+		max-width: 1.5lh;
 		margin: 1mm;
 	}
 
