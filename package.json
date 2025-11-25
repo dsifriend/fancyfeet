@@ -4,7 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev": "tinacms dev -c \"vite dev\"",
-		"build": "tinacms build && vite build",
+		"build": "svelte-kit sync && tinacms build && vite build",
 		"preview": "vite preview",
 		"test": "playwright test",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
