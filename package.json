@@ -13,28 +13,28 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
-		"@playwright/test": "^1.56.1",
+		"@playwright/test": "^1.57.0",
 		"@sveltejs/adapter-auto": "^7.0.0",
-		"@sveltejs/kit": "^2.48.5",
+		"@sveltejs/kit": "^2.49.0",
 		"@sveltejs/vite-plugin-svelte": "^6.2.1",
 		"@types/node": "^24.10.1",
 		"mdsvex": "^0.12.6",
-		"prettier": "^3.6.2",
+		"prettier": "^3.7.3",
 		"prettier-plugin-svelte": "^3.4.0",
-		"svelte": "^5.43.12",
+		"svelte": "^5.45.2",
 		"svelte-check": "^4.3.4",
 		"tslib": "^2.8.1",
 		"typescript": "^5.9.3",
-		"vite": "^7.2.2"
+		"vite": "^7.2.4"
 	},
 	"type": "module",
 	"dependencies": {
 		"@fontsource-variable/fira-code": "^5.2.7",
 		"@fontsource-variable/quicksand": "^5.2.10",
-		"@tinacms/cli": "^1.12.4",
+		"@tinacms/cli": "^1.12.5",
 		"feed": "^5.1.0",
-		"lucide-svelte": "^0.554.0",
+		"lucide-svelte": "^0.555.0",
 		"open-props": "^1.7.16",
-		"tinacms": "^2.9.5"
+		"tinacms": "^2.10.0"
 	}
 }
