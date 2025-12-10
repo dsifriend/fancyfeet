@@ -1,7 +1,7 @@
 ---
 title: The Cats of Piñero Park
 authors: src/content/authors/albert-r.md
-date: 2025-12-11T00:00:00.000Z
+date: 2025-12-10T00:00:00.000Z
 tags:
   - PiñeroPark
   - StreetCats
