@@ -17,3 +17,7 @@ Thankfully the hogs are gone now, and the chickens are still around, but a cat c
 
 That said, here are the cats I've identified so far:
 ![Two cats in the park. The one to the left is white and orange, sitting on the ground. The one on the right, a white long-hair, is sitting on a blue table with ears laid back.](</content/media/Screenshot 2025-12-10 at 14.00.32.png> "The two most common visitors")
+
+I'm calling them by ice cream truck flavors until I get word from the other caretakers, so to me, these two are Creamsicle and Coconut, for obvious reasons. I don't think Creamsicle's been clipped (you can get a better look at his ears in the featured image),  but Coconut has, despite his big old tomcat face.
+
+![Ice cream truck menu, laid out in rows and sections by brand. Sandwiches in the top-right corner, cartoon tie-ins in the bottom-left, and popsicles in the bottom-right.](/content/media/81677149.jpg "The ice cream flavors in question.")
