@@ -21,3 +21,10 @@ That said, here are the cats I've identified so far:
 I'm calling them by ice cream truck flavors until I get word from the other caretakers, so to me, these two are Creamsicle and Coconut, for obvious reasons. I don't think Creamsicle's been clipped (you can get a better look at his ears in the featured image),  but Coconut has, despite his big old tomcat face.
 
 ![Ice cream truck menu, laid out in rows and sections by brand. Sandwiches in the top-right corner, cartoon tie-ins in the bottom-left, and popsicles in the bottom-right.](/content/media/81677149.jpg "The ice cream flavors in question.")
+
+Then there's two black kitties I've seen around, though I've only gotten a good picture of one of them, this older tomcat:
+![Crumpy black tomcat sat on a knee-high wall looking away from the camera.](/content/media/IMG_4433.jpeg "Look at the fluffy tail on him!")
+
+The other little void seems to be more of a kitten, and he's usually run off across the street by the time I spot him.
+
+And that's where things stand. Maybe I'll buy tube treats to lure them closer and inspect their ears more carefully.
