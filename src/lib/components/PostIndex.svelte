@@ -65,6 +65,7 @@
 		display: flex;
 		align-items: center;
 		justify-content: flex-start;
+		margin: 1.5em 0;
 	}
 	.post-summary {
 		padding: 1rem 0;
