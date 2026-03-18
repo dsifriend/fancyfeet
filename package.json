@@ -31,7 +31,7 @@
 	"dependencies": {
 		"@fontsource-variable/fira-code": "^5.2.7",
 		"@fontsource-variable/quicksand": "^5.2.10",
-		"@tinacms/cli": "^2.1.7",
+		"@tinacms/cli": "^2.1.9",
 		"feed": "^5.2.0",
 		"lucide-svelte": "^0.563.0",
 		"open-props": "^1.7.17",
